@@ -30,9 +30,9 @@ chrome.storage.sync.get(['PolyPlus_Settings'], function (result) {
 
 		let SidebarLogo = Sidebar.getElementsByTagName('img')[0];
 		if (MembershipTheme === 'plus') {
-			SidebarLogo.src = 'https://c0.ptacdn.com/static/images/branding/icon-plus.8f6e41f1.svg'
+			SidebarLogo.src = 'https://static.wikia.nocookie.net/polytoria/images/5/5b/PlusPolytoriaicon.png'
 		} else {
-			SidebarLogo.src = 'https://c0.ptacdn.com/static/images/branding/icon-plusdx.bd9daa92.svg'
+			SidebarLogo.src = 'https://static.wikia.nocookie.net/polytoria/images/9/9e/PlusDeluxePolytoriaicon.png'
 		}
 
 		let SidebarLogoLabel = document.createElement('div');
