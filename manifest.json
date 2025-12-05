@@ -1,10 +1,10 @@
 {
 	"manifest_version": 3,
-	"author": "Index",
-	"name": "Poly+",
+	"author": "Index, Lazymanzoid",
+	"name": "Poly+ Reborn",
 	"version": "1.3",
 	"version_name": "Release Build (v1.3)",
-	"description": "Power-up your Polytoria experience with Poly+! Created by Index.",
+	"description": "Power-up your Polytoria experience with Poly+! Created by Index. Maintained by Lazymanzoid",
 	"homepage_url": "https://polyplus.vercel.app/",
 	"permissions": ["storage", "contextMenus", "scripting", "alarms", "notifications"],
 	"content_scripts": [
@@ -154,9 +154,9 @@
 			"matches": ["https://polytoria.com/*"]
 		}
 	],
-	"short_name": "Poly+",
+	"short_name": "Poly+ Reborn",
 	"action": {
-		"default_title": "Poly+",
+		"default_title": "Poly+ Reborn",
 		"default_icon": {
 			"16": "/images/icon.png",
 			"32": "/images/icon.png",
