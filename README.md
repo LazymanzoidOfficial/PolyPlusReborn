@@ -70,15 +70,8 @@ Poly+ is supported on Chromium-based browsers and Firefox!
 
 # Downloading
 
-## How to Download - Stable Build?
-
-1. Go to the extensions (or add-ons) webstore for your respective browser:
-    - Chromium-based browsers: [Chrome Webstore](https://chromewebstore.google.com/detail/poly+/feafepokhecfmimpepbpccmcnjbcbklg)
-    - Firefox: [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/polytoriaplus/)
-
-2. Click on the Poly+ icon in your browser's tooltip (if it's pinned, if not you may have to go to a sub-menu in your browser's toolbar and find the extension there) to go to the settings page, and customize your experience. Remember to click save at the bottom of the page when you are done!
-
-3. Go to Polytoria's website and enjoy the many features and QOL improvements that come with Poly+!
+> [!IMPORTANT]
+> This extension is not on the Firefox Addon store or Chrome Webstore yet.
 
 ## How to Download - Pre-Release Build?
 
