@@ -4,9 +4,9 @@
 > [!IMPORTANT]
 > This extension is currently in BETA. If you find any bugs, please report them in this repository's issues section as it'd be a great help towards the development of the extension.
 
-# Poly+
+# Poly+ Reborn
 
-Poly+ is a quality-of-life browser extension for the Polytoria website! The extension provides tons of improvements to improve your experience on Polytoria! Visit the website [here](https://polyplus.vercel.app/)!
+Poly+ is a quality-of-life browser extension for the Polytoria website! The extension provides tons of improvements to improve your experience on Polytoria! Visit the website [here](https://polyplus.vercel.app/)! Poly+ Reborn is a new version of the extension maintained by Lazymanzoid.
 
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
